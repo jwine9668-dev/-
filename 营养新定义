@@ -1,0 +1,24 @@
+create  str  =  "i"
+      scan  str = "i"
+      print  str = "i"
+        continue str = "i"
+          end str = "i"
+           <meat name = "description"
+               description =  "img"
+                   img =  "str" >
+                </meat>
+                   <meat name = "keywords"
+                       key words = "str"
+                   
+def create_food_meta_tags():
+    food = "str"
+      include food = (Protein, carbs, fat ）
+            scan food = "str"
+                print food = "str"
+                    contine food = "str"
+                        end food = "str"
+                            scan food  time =  "img"
+                                 img = "str"
+                                   Calculate food Total amount = "str"
+                                     str = "i"
+                                       
